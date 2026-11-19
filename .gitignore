@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Local configuration and generated indexes
+.env
+.env.*
+!.env.example
+faiss_index/
+
+# Tooling and operating-system files
+.DS_Store
+.vscode/
+
+# Ignore data files
+data/
