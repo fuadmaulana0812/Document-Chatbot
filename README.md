@@ -1,6 +1,6 @@
 # Document Chatbot
 
-<img align="center" width="500" height="300" src="https://github.com/fuadmaulana0812/Document-Chatbot/tree/b30cb3c4eb88dcb4f48e226d1d7f450b98595bb1/images">
+<img align="center" width="500" height="300" src="https://github.com/fuadmaulana0812/Document-Chatbot/blob/d45223522cc84f6cca6e5228a092d74316540bd2/images/chatbot.png">
 
 ### Objective
 
